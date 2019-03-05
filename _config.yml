@@ -10,8 +10,8 @@ title:  每日惊喜
 subtitle: 分享技术，品味人生
 name: daysurprise 
 email: daysurprise@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是daysurprise的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
+keywords: daysurprise,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.png 
 
@@ -220,8 +220,8 @@ gitment:
     owner: daysurprise
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: 67ff57ff4e0712370d0b
+        client_secret: 5de870353f106bb482a7954ad86d4f07d3df9b7f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: daysurprise
